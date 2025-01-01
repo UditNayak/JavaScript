@@ -4,3 +4,9 @@ Developers use HTML and CSS to control the content and styling of a page. And th
 In this JavaScript Algorithm and Data Structures Repo, I'll learn the JavaScript fundamentals like variables, arrays, objects, loops, functions, the DOM and more.
 
 I'll also learn about Object Oriented Programming (OOP), Functional Programming, algorithmic thinking, how to work with local storage, and how to fetch data using an API.
+
+## Index
+1. [Pyramid Generator](#pyramid-generator)
+
+## Pyramid Generator
+This project teach me basics like Arrays and loops.

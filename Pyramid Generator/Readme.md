@@ -14,5 +14,32 @@ JavaScript has **seven primitive data types**, with String being one of them.
 - Arrays are denoted using square brackets (`[]`).
 - `push()` -> returns the new length of the array, after adding the value you give it.
 - `pop()` -> returns the value that was removed from the end of the array.
+- `unshift()` -> push in the beginning, return the new length of the array.
+- `shift()` -> pop in the beginning, return the popped value
 
+### Const
+- `const` variables are special.
+- A `const` variable cannot be reassigned like a `let` variable.
+- A `const` variable also cannot be uninitialized.
 
+### for 
+```
+for (iterator; condition; iteration) {
+  logic;
+}
+```
+### for of
+A `for...of` loop iterates over each item in an iterable object and temporarily assigns it to a variable.
+
+The syntax for a for...of loop looks like:
+
+Example Code:
+```
+for (const value of iterable) {
+
+}
+```
+Note that you can use const because the variable only exists for a single iteration, not during the entire loop.
+
+## Falsy values
+JavaScript has a defined list of falsy values. Some of them include `false`, `0`, `""`, `null`, `undefined`, and `NaN`.
